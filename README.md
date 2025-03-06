@@ -1,5 +1,5 @@
 # CS465_Project
-Analyzing University Rankings Data for Predictive Insights
 
 
-## Project Title: Analyzing University Ranking Factors
+
+## 📌 Project Title: Analyzing University Ranking Factors
