@@ -41,3 +41,18 @@ This project applies machine learning techniques to predict QS Overall Scores fo
 4. **Data Visualization**:
    - Analyzed the distribution of QS scores.
    - More Visualization 🔜 (Soon)
+  
+
+## 📈 **Results**
+
+
+## 🏁 **Conclusion**
+
+
+## 📦 **External Libraries Used**
+- **🐼 Pandas**: Data manipulation
+- **➗ NumPy**: Numerical computations
+- **📊 Matplotlib**: Data visualization
+- **🌊 Seaborn**: Advanced visualization
+- **🤖 Scikit-learn**: Machine learning models & preprocessing
+
