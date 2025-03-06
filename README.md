@@ -44,9 +44,11 @@ This project applies machine learning techniques to predict QS Overall Scores fo
   
 
 ## 📈 **Results**
+🔜 (Soon)
 
 
 ## 🏁 **Conclusion**
+🔜 (Soon)
 
 
 ## 📦 **External Libraries Used**
