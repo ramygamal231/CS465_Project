@@ -15,3 +15,9 @@ This project applies machine learning techniques to predict QS Overall Scores fo
 2. Analyze correlations between institutional, research, and demographic features.
 3. Determine the most impactful features and provide data-driven insights.
 4. Build predictive models to estimate QS Overall Scores for universities.
+
+
+## 📊 **Dataset**
+- **Source**: [Kaggle Dataset - QS University Rankings 2025](https://www.kaggle.com/datasets/darrylljk/worlds-best-universities-qs-rankings-2025)
+- **Description**: Includes 1503 records with 16 features.
+- **Key Feature**: QS Overall Score (Target Variable)
