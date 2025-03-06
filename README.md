@@ -58,3 +58,8 @@ This project applies machine learning techniques to predict QS Overall Scores fo
 - **🌊 Seaborn**: Advanced visualization
 - **🤖 Scikit-learn**: Machine learning models & preprocessing
 
+## 👥 **Team**
+- **Ahmed Yasser Ibrahim** (222110758)
+- **Ramy Gamal Ibrahim** (221110521)
+- **Syed Fawaz Ali** (222110583)
+
