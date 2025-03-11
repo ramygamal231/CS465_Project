@@ -2,7 +2,7 @@
 
 
 
-## 📌 Project Title: Analyzing University Ranking Factors
+## 📌 Project Title: Analyzing University Ranking Factors 
 
 
 ## 📄 Abstract
