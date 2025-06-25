@@ -36,7 +36,7 @@ This project applies machine learning techniques to predict QS Overall Scores fo
 3. **Model Training & Evaluation**:
    - **Train-test split (80-20)** for model evaluation.
    - **Machine Learning Models 🔜** 
-    - Linear Regression
+     - Linear Regression
    - **Model Evaluation 🔜** (Soon)
 
 4. **Data Visualization**:
