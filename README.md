@@ -1,8 +1,8 @@
-# CS465_Project
+# Machine Learning Project (CS465)
 
 
 
-## 📌 Project Title: Analyzing University Ranking Factors 
+## 📌 Project Title: QS University Ranking Prediction & Analysis 
 
 
 ## 📄 Abstract
